@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{A256B0A4-D3A5-4EA0-A856-CD1117D18A73}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>GUSGives</RootNamespace>
+    <AssemblyName>GUSGives</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Entities\Address.cs" />
+    <Compile Include="Entities\AdultMembers.cs" />
+    <Compile Include="Entities\Age.cs" />
+    <Compile Include="Entities\ElectronicPurchase.cs" />
+    <Compile Include="Entities\Electronics.cs" />
+    <Compile Include="Entities\Household.cs" />
+    <Compile Include="Entities\MembershipStatus.cs" />
+    <Compile Include="Entities\OptionalExtras.cs" />
+    <Compile Include="Entities\Property.cs" />
+    <Compile Include="Entities\PropertyUpgrade.cs" />
+    <Compile Include="Generators\AddressGenerator.cs" />
+    <Compile Include="Generators\AgeGenerator.cs" />
+    <Compile Include="Generators\AdultGenerator.cs" />
+    <Compile Include="Generators\ElectronicsGenerator.cs" />
+    <Compile Include="Generators\PropertyGenerator.cs" />
+    <Compile Include="Generators\HouseholdGenerator.cs" />
+    <Compile Include="Generators\IncomeGenerator.cs" />
+    <Compile Include="Generators\MembershipStatusGenerator.cs" />
+    <Compile Include="Generators\MobilePhoneGenerator.cs" />
+    <Compile Include="Generators\EmailGenerator.cs" />
+    <Compile Include="Generators\GenderGenerator.cs" />
+    <Compile Include="Generators\Generator.cs" />
+    <Compile Include="Generators\HomePhoneGenerator.cs" />
+    <Compile Include="Preprocessing\AddressTools.cs" />
+    <Compile Include="Generators\DistributionValue.cs" />
+    <Compile Include="Entities\Gender.cs" />
+    <Compile Include="MemberGenerator.cs" />
+    <Compile Include="Generators\NameGenerator.cs" />
+    <Compile Include="Entities\Member.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Data\au_streets.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Data\au_suburbs.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Data\gb_streets.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Data\gb_suburbs.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Data\names_female.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Data\names_last.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Data\names_male.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Data\nz_streets.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Data\nz_suburbs.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

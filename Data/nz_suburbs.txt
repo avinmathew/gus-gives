@@ -1,0 +1,1080 @@
+Suburb	PostCode
+Abbey Caves	0110
+Abbotsford	9018
+Acacia Bay	3330
+Addington	8011
+Ahuriri	4110
+Akaroa	7520
+Akina	4122
+Albany	0632
+Alexandra	9320
+Alfriston	2105
+Algies Bay	0920
+Alicetown	5010
+Allenton	7700
+Amberley	7410
+Anderson Park	9810
+Andersons Bay	9013
+Annesbrook	7011
+Aotea	5024
+Appleby	9812
+Aramoho	4500
+Aranui	8061
+Arapuni	3415
+Ardgowan	9400
+Arkles Bay	0932
+Army Bay	0930
+Aro Valley	6011
+Arrowtown	9302
+Ascot	9810
+Ascot Park	5024
+Ashhurst	4810
+Atawhai	7010
+Athenree	3611
+Auckland Airport	2022
+Auckland Central	1010
+Avalon	5011
+Avalon Industrial	3200
+Avenal	9810
+Avenues	0110
+Aviemore	9435
+Avondale	0600
+Avonhead	8042
+Avonside	8061
+Awakino Point	0310
+Awamoa	9400
+Awapuni	4412
+Awatoto	4110
+Awatuna	7832
+Bader	3206
+Balaclava	9011
+Balclutha	9230
+Balgownie	4501
+Barrington	8024
+Bay View	4104
+Bayswater	0622
+Beach Haven	0626
+Beachlands	2018
+Beachville	7010
+Beckenham	8023
+Beerescourt	3200
+Belfast	8051
+Bell Block	4312
+Belleknowes	9011
+Bellevue	3110
+Belmont	0622
+Belmont Regional Park	5010
+Ben Ohau	7901
+Ben Omar	9410
+Berhampore	6023
+Bethlehem	3110
+Bexley	8061
+Birchville	5018
+Birchwood	9410
+Birkdale	0626
+Birkenhead	0626
+Bishopdale	8053
+Blackball	7804
+Blagdon	4310
+Blaketown	7805
+Blenheim Central	7201
+Blockhouse Bay	0600
+Bluff	9814
+Bluff Hill	4110
+Botany Downs	2010
+Bottle Lake	8083
+Boulcott	5010
+Bradford	9011
+Breaker Bay	6022
+Bridge Hill	9320
+Bridge Pa	4120
+Brighton	8061
+Brightwater	7022
+Britannia Heights	7010
+Broad Bay	9014
+Broadmeadows	6035
+Brockville	9011
+Bromley	8062
+Brookfield	3110
+Brooklands	8083
+Brooklyn	6021
+Broomfield	8042
+Brown Owl	5018
+Browns Bay	0630
+Bryndwr	8052
+Bucklands Beach	2014
+Bulls	4818
+Burkes Pass	7999
+Burnham	7600
+Burnside	8053
+Burswood	2013
+Burwood	8061
+Cable Bay	0420
+Calton Hill	9012
+Camberley	4120
+Camborne	5026
+Cambridge	3434
+Camerons	7805
+Campbells Bay	0630
+Camside	7630
+Cannons Creek	5024
+Cape Foulwind	7825
+Careys Bay	9023
+Carters Beach	7825
+Carterton	5713
+Casebrook	8051
+Cashmere	8022
+Cass Bay	8082
+Castlecliff	4501
+Castor Bay	0620
+Cattle Creek	7999
+Caversham	9012
+Chain Hills	9024
+Chartwell	3210
+Chatswood	0626
+Chedworth	3210
+Cheviot	7310
+Christchurch Airport	8053
+Christchurch Central	8013
+Churton Park	6037
+Clareville	5713
+Clarks Beach	2122
+Claudelands	3214
+Clendon Park	2103
+Clifton	9812
+Clinton	9534
+Clive	4102
+Clouston Park	5018
+Clover Park	2023
+Cloverlea	4412
+Clyde	9330
+Clyde Hill	9011
+Coal Creek	7802
+Coastlands	3120
+Cobden	7802
+Cockle Bay	2014
+College Estate	4500
+Company Bay	9014
+Concord	9018
+Conifer Grove	2112
+Coopers Beach	0420
+Cornwallis	0604
+Coromandel	3506
+Corsair Bay	8082
+Corstorphine	9018
+Coutts Island	8051
+Crofton Downs	6035
+Cromwell	9310
+Croydon	9710
+Dallington	8061
+Dalmore	9010
+Dannemora	2016
+Dannevirke	4930
+Darfield	7510
+Dargaville	0310
+Days Bay	5013
+Deanwell	3206
+Deborah	9401
+Denfield	7930
+Devonport	0624
+Dinsdale	3204
+Dobson	7805
+Drury	2113
+Dumbarton	9500
+Dunedin Central	9016
+Dunedin North	9016
+Dunedin South	9012
+Dunganville	7805
+Durie Hill	4500
+East Gore	9710
+East Taieri	9024
+East Tamaki	2013
+Eastbourne	5013
+Eastern Beach	2012
+Ebdentown	5018
+Eden Terrace	1010
+Edendale	9825
+Edgecumbe	3120
+Edgeware	8013
+Eketahuna	4900
+Elderslea	5018
+Elgin	4010
+Ellerslie	1061
+Elsdon	5022
+Eltham	4322
+Enderley	3214
+Enner Glynn	7011
+Epsom	1023
+Epuni	5011
+Fairfield	9018
+Fairlie	7925
+Fairview	7910
+Fairview Downs	3214
+Fairy Springs	3015
+Farm Cove	2012
+Favona	2024
+Featherston	5710
+Feilding	4702
+Fendalton	8052
+Ferndale	4310
+Fernhill	9300
+Fernside	7400
+Ferrymead	8022
+Finegand	9230
+Fitzherbert	4410
+Fitzroy	4312
+Flagstaff	3210
+Flaxmere	4120
+Forbury	9012
+Fordlands	3015
+Forest Lake	3200
+Forrest Hill	0620
+Foxton	4814
+Foxton Beach	4815
+Frankleigh Park	4310
+Frankton	9300
+Frasertown	4108
+Freemans Bay	1011
+Frimley	4120
+Gabriels Gully	9532
+Gate Pa	3112
+Georgetown	9812
+Geraldine	7930
+Gisborne	4010
+Gladstone	9810
+Glen Avon	4312
+Glen Eden	0602
+Glen Innes	1072
+Glenbervie	0112
+Glendene	0602
+Glendowie	1071
+Glenfield	0629
+Glengarry	9810
+Glenholme	3010
+Gleniti	7910
+Glenleith	9010
+Glenross	9011
+Glenside	6037
+Glenview	3206
+Glenwood	7910
+Golflands	2013
+Gonville	4501
+Goodwood Heights	2105
+Gore	9710
+Governors Bay	8022
+Gracefield	5010
+Grafton	1023
+Grandview Heights	3200
+Granity	7823
+Grasmere	9810
+Green Bay	0604
+Green Island	9018
+Greenhithe	0632
+Greenlane	1051
+Greenmeadows	4112
+Greerton	3112
+Grenada North	5028
+Grenada Village	6037
+Grey Lynn	1021
+Greymouth	7805
+Greytown	5712
+Grovetown	7202
+Gulf Harbour	0930
+Hairini	3112
+Hakataramea	9435
+Half Moon Bay	2012
+Halfway Bush	9010
+Halswell	8025
+Hamilton Central	3204
+Hamilton East	3216
+Hamilton Lake	3204
+Hampden	9410
+Hampstead	7700
+Hanmer Forest Park	7334
+Hanmer Springs	7334
+Harbour View	5010
+Harewood	8051
+Hargest	9810
+Harrowfield	3210
+Hastings Central	4122
+Hataitai	6021
+Hatfields Beach	0931
+Haumoana	4102
+Hauraki	0622
+Havelock	7100
+Havelock North	4130
+Hawera	4610
+Hawkesbury	7204
+Hawthorndale	9810
+Haywards	5018
+Heathcote Valley	8022
+Hector	7822
+Hei Hei	8042
+Heidelberg	9812
+Helensburgh	9010
+Helensville	0800
+Henderson	0610
+Henderson Valley	0612
+Herald Island	0618
+Heretaunga	5018
+Herne Bay	1011
+Highbury	4412
+Highcliff	9013
+Highfield	7910
+Highland Park	2010
+Highlands Park	4312
+Hikurangi	0114
+Hillcrest	0627
+Hillgrove	9410
+Hillsborough	8022
+Hobsonville	0618
+Hohonu	7805
+Hokitika	7810
+Hokowhitu	4410
+Holmes Hill	9401
+Homebush	5810
+Hoon Hay	8025
+Hope	7020
+Horahora	0110
+Hornby	8042
+Hornby South	8042
+Horokiwi	5016
+Hospital Hill	4110
+Houghton Bay	6023
+Howick	2014
+Huia	0604
+Hunterville	4730
+Huntingdon	3210
+Huntington Park	2013
+Huntly	3700
+Hurdon	4310
+Huxley Gorge	7999
+Ilam	8041
+Inch Clutha	9231
+Inglewood	4330
+Inner Kati	4010
+Invercargill Airport	9810
+Invercargill Central	9810
+Invercargill West	9810
+Island Bay	6023
+Islington	8042
+Jervoistown	4112
+Johnsonville	6037
+Judea	3110
+Kaiapoi	7630
+Kaiata	7805
+Kaikohe	0405
+Kaikorai	9010
+Kaikoura	7300
+Kaikoura Flat	7300
+Kaikoura Peninsula	7300
+Kainga	8083
+Kairaki Beach	7630
+Kairua	3118
+Kaitaia	0410
+Kaitangata	9210
+Kaiwharawhara	6035
+Kamo	0112
+Kaniere	7811
+Karaka Bays	6022
+Karangahake	3600
+Karori	6012
+Karoro	7805
+Katikati	3129
+Kawaha Point	3010
+Kawakawa	0210
+Kawau Island	0920
+Kawerau	3127
+Kelburn	6012
+Kelson	5010
+Kelston	0602
+Kelvin Grove	4414
+Kelvin Heights	9300
+Kenmure	9011
+Kennedys Bush	8025
+Kensington	7910
+Kerikeri	0230
+Kew	9812
+Khandallah	6035
+Kihikihi	3800
+Kilbirnie	6022
+Kingsdown	7912
+Kingsland	1021
+Kingsley Heights	5018
+Kingston	6021
+Kingswell	9812
+Kinmont Park	9024
+Kohimarama	1071
+Kokatahi	7811
+Korokoro	5012
+Koutu	3010
+Kowhai Park	4500
+Kumara	7832
+Kumara Junction	7832
+Kumeu	0810
+Kurow	9435
+Laingholm	0604
+Lansdowne	5810
+Lawrence	9532
+Lawyers Head	9013
+Leamington	3432
+Leeston	7632
+Leith Valley	9010
+Levin	5510
+Liberton	9010
+Lichfield	3411
+Lincoln	7608
+Linton Military Camp	4820
+Linwood	8011
+Longlands	4120
+Lookout Point	9011
+Lorneville	9810
+Lower Hutt Central	5010
+Lower Moutere	7120
+Lower Vogeltown	4310
+Lowry Bay	5013
+Lumsden	9730
+Lyall Bay	6022
+Lynfield	1042
+Lynmore	3010
+Lynmouth	4310
+Lyttelton	8082
+Macandrew Bay	9014
+Maeroa	3200
+Mahina Bay	5013
+Mahora	4120
+Maidstone	5018
+Mairangi Bay	0630
+Mairehau	8013
+Mairtown	0112
+Maitai	7010
+Makaraka	4010
+Makareao	9410
+Mamaku	3020
+Mana	5026
+Manaia	4612
+Mangakakahi	3015
+Mangakino	3421
+Mangapapa	4010
+Mangawhai	0505
+Mangawhai Heads	0505
+Mangere	2022
+Mangere Bridge	2022
+Mangere East	2024
+Mangere South	2022
+Mangonui	0420
+Manly	0930
+Manor Park	5019
+Manukau	2025
+Manunui	3924
+Manurewa	2102
+Manurewa East	2102
+Maori Hill	9010
+Maori Park	7910
+Maoribank	5018
+Mapua	7005
+Maraenui	4110
+Maraetai	2018
+Maraetotara	3120
+Marchwiel	7910
+Marewa	4110
+Marfell	4310
+Marlborough	0629
+Marsden	7805
+Marshland	8083
+Martinborough	5711
+Marton	4710
+Marybank	7010
+Maryhill	9011
+Massey	0614
+Masterton	5810
+Matamata	3400
+Matapihi	3110
+Mataura	9712
+Matokitoki	4010
+Matua	3110
+Maungakotukutuku	5032
+Maunganui	5034
+Maungaraki	5010
+Maungatapu	3112
+Maungaturoto	0520
+Maupuia	6022
+Mayfair	4122
+Mayfield	7201
+Mcleans Island	8051
+Meadowbank	1072
+Meadowood	0632
+Mechanics Bay	1010
+Meeanee	4112
+Melling	5010
+Melrose	6023
+Melville	3206
+Merivale	8014
+Merrilands	4312
+Methven	7730
+Middleton	8024
+Milford	0620
+Milson	4414
+Milton	9220
+Miramar	6022
+Mission Bay	1071
+Moa Point	6022
+Moana	7011
+Moera	5010
+Moerewa	0211
+Monaco	7011
+Morningside	0110
+Mornington	9011
+Morrinsville	3300
+Mosgiel	9024
+Motiti Island	3110
+Motu Rimu	9812
+Motueka	7120
+Moturoa	4310
+Mount Cook	7999
+Mount Cook National Park	7999
+Mount Grand	9011
+Mt Albert	1025
+Mt Cook	6021
+Mt Eden	1024
+Mt Maunganui	3116
+Mt Pleasant	8081
+Mt Roskill	1041
+Mt Victoria	6011
+Mt Wellington	1060
+Murchison	7007
+Muritai	5013
+Murrays Bay	0630
+Murupara	3025
+Musselburgh	9013
+Naenae	5011
+Napier South	4110
+Narrow Neck	0624
+Nawton	3200
+Nelson Airport	7011
+Nelson Central	7010
+Nelson South	7010
+Netherby	7700
+New Brighton	8061
+New Lynn	0600
+New Plymouth Central	4310
+Newfield	9812
+Newlands	6037
+Newmarket	1023
+Newtown	6021
+Ngaio	6035
+Ngakawau	7822
+Ngapuna	3010
+Ngaruawahia	3720
+Ngatea	3503
+Ngauranga	6035
+Ngongotaha	3010
+Ngongotaha Valley	3015
+Nightcaps	9630
+Nihotupu	0604
+Nikau Valley	5032
+Nine Mile	7803
+Normanby	9010
+Normandale	5010
+North Beach	8083
+North East Valley	9010
+North Huntingdon	3210
+North Putaruru	3410
+Northcote	0627
+Northcross	0632
+Northgate Industrial	3200
+Northland	6012
+Northwood	8051
+Nukuhau	3330
+Oakura	4314
+Oamaru Central	9400
+Oamaru North	9400
+Ocean Beach	9814
+Ocean Grove	9013
+Oceanview	7910
+Ohai	9635
+Ohakea	4816
+Ohakune	4625
+Ohariu	6037
+Ohau	9412
+Ohaupo	3803
+Ohope	3121
+Ohura	3926
+Okato	4335
+Okitu	4010
+Okoia	4500
+Okoroire	3410
+Omaka	7201
+Omarama	9412
+Omiha	1081
+Omokoroa	3114
+One Tree Hill	1061
+Onehunga	1061
+Onekawa	4110
+Onekawa Industrial	4110
+Onerahi	0110
+Oneroa	1081
+Onetangi	1081
+Opaheke	2113
+Opawa	8023
+Opoho	9010
+Opotiki	3122
+Opua	0200
+Opunake	4616
+Orakei	1071
+Oratia	0604
+Orewa	0931
+Oriental Bay	6011
+Ormiston	2016
+Ostend	1081
+Otahuhu	1062
+Otaihanga	5036
+Otaika	0110
+Otaki	5512
+Otaki Beach	5512
+Otamatea	4500
+Otane	4202
+Otangarei	0112
+Otara	2023
+Otautau	9610
+Otematata	9412
+Otiake	9435
+Otipua Creek	7910
+Otorohanga	3900
+Otumoetai	3110
+Outer Kaiti	4010
+Outram	9019
+Owaka	9535
+Owhata	3010
+Owhiro Bay	6023
+Oxford	7430
+Paekakariki	5034
+Paeroa	3600
+Pahiatua	4910
+Pahurehure	2113
+Paihia	0200
+Pakuranga	2010
+Pakuranga Heights	2010
+Palmerston	9430
+Palmerston North	4410
+Pandora	4110
+Panmure	1072
+Papakowhai	5024
+Papakura	2110
+Papamoa Beach	3118
+Papanui	8053
+Paparangi	6037
+Papatoetoe	2025
+Parahaki	0112
+Parakai	0830
+Paraparaumu	5032
+Paraparaumu Beach	5032
+Parau	0604
+Paremata	5024
+Paremoremo	0632
+Parklands	8083
+Parkside	7910
+Parkvale	4122
+Parnell	1052
+Patea	4520
+Penrose	1061
+Peria	0420
+Petone	5012
+Phillipstown	8062
+Piarere	3410
+Picton	7220
+Pigeon Valley	7025
+Pine Hill	9010
+Pinehaven	5019
+Pinehill	0632
+Pines Beach	7630
+Piopio	3912
+Pipitea	6011
+Pirimai	4112
+Pirongia	3802
+Pleasant Point	7903
+Plimmerton	5026
+Poike	3112
+Point Chevalier	1022
+Point Elizabeth	7802
+Point England	1072
+Point Howard	5013
+Ponsonby	1011
+Poraiti	4112
+Porirua	5022
+Porirua East	5024
+Poroporo	3120
+Port Chalmers	9023
+Port Nelson	7010
+Port Taranaki	4310
+Port Whangarei	0110
+Portobello	9014
+Prebbleton	7604
+Preece Point	3506
+Prestonville	9810
+Pukehangi	3015
+Pukekohe	2120
+Pukerua Bay	5026
+Puketaha	3210
+Pukete	3200
+Pukete Industrial	3200
+Putaruru	3411
+Putiki	4500
+Pyes Pa	3112
+Quailburn	9412
+Queen Elizabeth Park	5034
+Queens Park	9810
+Queenstown	9300
+Queenwood	3210
+Raes Junction	9888
+Raetihi	4632
+Raglan	3225
+Rakaia	7710
+Rakino Island	1010
+Randwick Park	2105
+Ranfurly	9332
+Rangiora	7400
+Ranui	0612
+Ranui Heights	5024
+Rapahoe	7803
+Raumanga	0110
+Raumati Beach	5032
+Raumati South	5032
+Raureka	4120
+Ravensbourne	9022
+Red Beach	0932
+Red Hill	2110
+Redcliffs	8081
+Redruth	7910
+Redvale	0932
+Redwood	8051
+Redwoodtown	7201
+Reefton	7830
+Regent	0112
+Remuera	1050
+Renwick	7204
+Riccarton	8041
+Richmond	7020
+Rimutaka Hill	5710
+Riverdale	4010
+Riverhead	0820
+Riverlea	3216
+Riversdale	7201
+Riverside	0112
+Riverstone Terraces	5018
+Riverton North	9822
+Riverton Rocks	9822
+Riverton South	9822
+Rockdale	9812
+Rolleston	7614
+Rongotai	6022
+Rosedale	0632
+Rosehill	2113
+Roseneath	6011
+Roslyn	4414
+Ross	7812
+Rothesay Bay	0630
+Rotorua	3010
+Rototuna	3210
+Rototuna North	3210
+Roxburgh	9500
+Roxburgh East	9500
+Royal Oak	1023
+Ruakaka	0116
+Ruatoria	4032
+Ruawai	0530
+Ruby Bay	7005
+Runanga	7803
+Russell	0202
+Russley	8053
+Rutherglen	7805
+Saint Clair	9012
+Saint Kilda	9012
+Saint Leonards	9022
+Sandringham	1025
+Sanson	4817
+Sawyers Bay	9023
+Scarborough	7910
+Seatoun	6022
+Seaview	7910
+Seaward Bush	9812
+Seddon	7210
+Selwyn Heights	3015
+Shannon	4821
+Sheffield	7500
+Shelly Park	2014
+Shiel Hill	9013
+Shirley	8061
+Silverdale	3216
+Silverstream	5019
+Snells Beach	0920
+Sockburn	8042
+Solway	5810
+Somerfield	8024
+Somerville	2014
+South Bay	7300
+South Beach	7805
+South Hill	9400
+South New Brighton	8062
+Southbridge	7602
+Southgate	6023
+Southshore	8062
+Spotswood	4310
+Spreydon	8024
+Spring Creek	7202
+Springfield	3015
+Springlands	7201
+Springvale	4501
+St Albans	8014
+St Andrews	3200
+St Heliers	1071
+St Johns	1072
+St Johns Hill	4500
+St Leonards	4120
+St Martins	8022
+St Marys Bay	1011
+Stanley Point	0624
+Stanmore Bay	0932
+Starvation Hill	7430
+Stepheyville	7010
+Stewart Island	9818
+Stirling	9231
+Stoke	7011
+Stokes Valley	5019
+Strandon	4312
+Stratford	4332
+Strathern	9812
+Strathmore Park	6022
+Strowan	8014
+Styx	8083
+Sumner	8081
+Sunnynook	0620
+Sunnyvale	0612
+Sunset North	0632
+Sunshine Bay	9300
+Swanson	0614
+Sydenham	8023
+Tahunanui	7011
+Taihape	4720
+Tainui	9013
+Taipa	0420
+Tairua	3508
+Taita	5011
+Taitapu	8025
+Takaka	7110
+Takanini	2112
+Takapau	4203
+Takapu Valley	5028
+Takapuna	0622
+Takaro	4412
+Tamahere	3434
+Tamarau	4010
+Tamatea	4112
+Tamihana	3401
+Taneatua	3123
+Tangimoana	4822
+Tapanui	9522
+Taradale	4112
+Taumarunui	3920
+Taupiri	3721
+Taupo	3330
+Tauranga	3110
+Tauranga South	3112
+Tauriko	3110
+Tawa	5028
+Tawhero	4501
+Taylor Pass	7201
+Taylorville	7805
+Te Anau	9600
+Te Aro	6011
+Te Aroha	3320
+Te Atatu Peninsula	0610
+Te Atatu South	0610
+Te Awa	4110
+Te Awamutu	3800
+Te Awanga	4102
+Te Hapara	4010
+Te Karaka	4022
+Te Kauwhata	3710
+Te Kuiti	3910
+Te Marua	5018
+Te Ore Ore	5810
+Te Puke	3119
+Te Rapa Park	3200
+Te Rapa Straight	3200
+Te Rerenga	3506
+Tekapo	7999
+Temple View	3218
+Templeton	8042
+Temuka	7920
+Terrace End	4410
+Thames	3500
+The Brook	7010
+The Gardens	2105
+The Glen	9011
+The Wood	7010
+Thomsons Ford	7201
+Thorndon	6011
+Three Kings	1042
+Tihoitonga	3015
+Tikipunga	0112
+Timaru Central	7910
+Timaru Port	7910
+Timberlea	5018
+Tindalls Beach	0930
+Tinwald	7700
+Tirau	3410
+Tirohanga	5010
+Tisbury	9812
+Titahi Bay	5022
+Titirangi	0604
+Toi Toi	7010
+Tokaanu	3334
+Tokoroa	3420
+Tomoana	4120
+Torbay	0630
+Totara Park	5018
+Totara Peak	7999
+Totara Valley	7903
+Totaravale	0629
+Trentham	5018
+Trentham Military Camp	5018
+Tuahiwi	7400
+Tuakau	2121
+Tuatapere	9620
+Turangi	3334
+Turiwiri	0310
+Turnbull Thomson	9810
+Turua	3503
+Twizel	7901
+Upper Hutt Central	5018
+Upper Junction	9010
+Upper Riccarton	8041
+Upper Vogeltown	4310
+Vauxhall	9013
+Victoria	3010
+Vogeltown	4310
+Wadestown	6012
+Waiake	0630
+Waianakarua	9410
+Waiareka Junction	9401
+Waiatarua	0604
+Waiau	7332
+Waiheke Island	1081
+Waihi	3610
+Waihi Beach	3611
+Waihopai	9810
+Wai-iti	7025
+Waikanae	5036
+Waikanae Beach	5036
+Waikanae Park	5036
+Waikari	7420
+Waikato Hospital	3204
+Waikawa	7220
+Waikiwi	9810
+Waikouaiti	9510
+Waikuku	7400
+Waikuku Beach	7402
+Waimairi Beach	8083
+Waimangaroa	7823
+Waimataitai	7910
+Waimate	7924
+Waimauku	0812
+Wainoni	8061
+Wainui	4010
+Wainuiomata	5014
+Waiohiki	4112
+Waiotahi	3122
+Waiouru	4826
+Waiouru Military Area	4825
+Waipatu	4122
+Waipawa	4210
+Waipu	0510
+Waipukurau	4200
+Wairakei	3332
+Wairau Valley	0627
+Wairere	2105
+Wairoa	4108
+Waitakere	0614
+Waitangirua	5024
+Waitara	4320
+Waitarere	5510
+Waitarere Beach	5510
+Waitoa	3310
+Waiuku	2123
+Waiwhakaiho	4312
+Waiwhetu	5010
+Wakapuaka	7010
+Wakari	9010
+Wakatu	7011
+Wakefield	7025
+Waldronville	9018
+Wallacetown	9816
+Wallaceville	5018
+Waltham	8023
+Wanaka	9305
+Wanganui Airport	4501
+Wanganui Central	4500
+Wanganui East	4500
+Warkworth	0910
+Washdyke	7910
+Washdyke Flat	7910
+Washington Valley	7010
+Waterloo	5011
+Waterview	1026
+Watlington	7910
+Wattle Downs	2103
+Waverley	9810
+Waynes	9410
+Welbourn	4312
+Welcome Bay	3112
+Wellington Central	6011
+Wellsford	0900
+West Brook	3015
+West End	7910
+West Harbour	0618
+West Melton	8051
+Western Heights	3015
+Western Springs	1022
+Westhaven	1011
+Westmere	4501
+Westmorland	8025
+Weston	9401
+Westown	4310
+Westport	7825
+Westshore	4110
+Westwood	9035
+Weymouth	2103
+Whakarewarewa	3010
+Whakatane	3120
+Whalers Gate	4310
+Whangamata	3620
+Whangarei Central	0110
+Whataupoko	4010
+Whau Valley	0112
+Whenuapai	0618
+Whitby	5024
+Whiterigg	9710
+Whitianga	3510
+Whitiora	3200
+Whitstone	9401
+Wigram	8025
+Wilton	6012
+Windsor	9810
+Winton	9720
+Wiri	2104
+Witherlea	7201
+Woburn	5010
+Woodbourne	7206
+Woodend	7610
+Woodend Beach	7610
+Woodhaugh	9010
+Woodhill	0110
+Woodridge	6037
+Woodville	4920
+Woolston	8023
+Woolwich	4120
+Wyndham	9831
+Yaldhurst	8042
+Yelverton	7201
+York Bay	5013
